@@ -27,7 +27,8 @@
 
 body,
 html {
-  background-color: rgb(26, 26, 26);
+  /* background-color: rgb(26, 26, 26); */
+  background-color: #0b0b14cf;
   width: 100%;
   min-height: 100vh;
   box-sizing: border-box;

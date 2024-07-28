@@ -20,8 +20,8 @@ export default async function handler(req, res) {
             "sec-fetch-mode": "cors",
             "sec-fetch-site": "same-origin",
             "sec-gpc": "1",
-            "x-csrf-token": "PVhLhxIFOQ2OgdREQOZ5UJV4Y1LoldweOyoKNMtb",
-            "cookie": "laravel_session=nxYGN1NcjfLKnB82WM4oFEwDinp4i31OvJlQn4M1",
+            "x-csrf-token": "k0HyqvTonP6Yb59vg2gaxFG1xKVUTGgrs1jjVp96",
+            "cookie": "laravel_session=6OZ2dsWmXZ3q9ShM0OE6xMMdRpq4JxHNZfou0V8r",
             "Referer": "https://anilist.co/",
             "Referrer-Policy": "strict-origin-when-cross-origin"
         },
